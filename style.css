@@ -11,3 +11,13 @@ h2{
     {
         color: cornflowerblue;
     }
+section{
+    display: flex;
+}
+.two {
+   width: 50%;
+   padding-left: 5%; 
+}
+.two img {
+    width: 120%;
+}

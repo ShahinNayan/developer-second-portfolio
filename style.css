@@ -18,6 +18,7 @@ h2{
     }
 section{
     display: flex;
+    margin-bottom: 50px;
 }
 .one {
     width:40%;
@@ -61,4 +62,9 @@ section{
 .one{
     width: 50%;
     padding-left: 30%;
+}
+.photo-two{
+    background-image: url(dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right ;
 }

@@ -19,6 +19,7 @@ h2{
 section{
     display: flex;
     margin-bottom: 50px;
+    
 }
 .one {
     width:40%;
@@ -28,7 +29,10 @@ section{
     box-shadow: ; 
 }
 .one img {
-    width: 100%;
+    width: 150%;
+    
+    
+    
     
 }
 .button{
@@ -46,6 +50,9 @@ section{
 .p-two{
     display:flex;
 }
+.flex-two{
+    display: flex;
+}
 .top-banner{
     background-image: url(top-banner.png);
     background-repeat: no-repeat;
@@ -61,7 +68,7 @@ section{
     
 }
 .one{
-    width: 50%;
+    width: 100%;
     padding-left: 30%;
 }
 .photo-two{
@@ -72,7 +79,7 @@ section{
 .Experience{
     background-image: url(exp-bg.png);
     background-repeat: no-repeat;
-    background-position:  ;
+
 }
 .developer{
     width: 40%;
@@ -92,5 +99,5 @@ section{
     border-left: 7px solid blue;
 }
 footer p{
-   text-align:g center;
+   text-align: center;
 }

@@ -81,5 +81,16 @@ section{
     margin-bottom: 5%;
     padding-left: 30px;
     border-radius: 5px;
+    
+    
     box-shadow: 10px 10px 20px cornflowerblue;
+}
+#full-stack{
+    border-left: 7px solid tomato;
+}
+#pogramming-hero{
+    border-left: 7px solid blue;
+}
+footer p{
+   text-align:g center;
 }
